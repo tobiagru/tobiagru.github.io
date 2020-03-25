@@ -17,7 +17,7 @@ mkdir _site
 git clone https://${GH_TOKEN}@github.com/tobiagru/tobiagru.github.io.git --branch gh-pages _site
 
 # build with Jekyll into "_site"
-bundle update bundler
+gem install bundler
 bundle exec jekyll build
 
 # push
