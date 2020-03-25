@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi! I am Tobias a </title>
+    <description>an entrepreneurial product developer focusing on data-driven projects.&lt;br&gt;I love data-science, artificial intelligence &amp; computer vision</description>
+    <link>https://tobiagru.github.io//</link>
+    <atom:link href="https://tobiagru.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 25 Mar 2020 22:27:05 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2020 22:27:05 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Stock Price Detection with Deep Neural Networks - WIP</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Dec 2019 15:56:00 +0000</pubDate>
+        <link>https://tobiagru.github.io//project/2019/12/01/StockPredictionAI.html</link>
+        <guid isPermaLink="true">https://tobiagru.github.io//project/2019/12/01/StockPredictionAI.html</guid>
+        
+        <category>Python</category>
+        
+        <category>Tensorflow</category>
+        
+        <category>Keras</category>
+        
+        <category>Pandas</category>
+        
+        <category>Deep-Learning</category>
+        
+        <category>NLP</category>
+        
+        <category>GCP</category>
+        
+        <category>TPU</category>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>User Study on Augmented Reality based Intervention for Healthier Shopping</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Jun 2019 15:56:00 +0000</pubDate>
+        <link>https://tobiagru.github.io//project/2019/06/01/SelectaStudy.html</link>
+        <guid isPermaLink="true">https://tobiagru.github.io//project/2019/06/01/SelectaStudy.html</guid>
+        
+        <category>C#</category>
+        
+        <category>Unity</category>
+        
+        <category>Python</category>
+        
+        <category>Pandas</category>
+        
+        <category>Dash</category>
+        
+        <category>Human-Machine-Interaction</category>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Grocery Product Detection with Deep Learning</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 May 2019 15:56:00 +0000</pubDate>
+        <link>https://tobiagru.github.io//project/2019/05/01/SelectaObject.html</link>
+        <guid isPermaLink="true">https://tobiagru.github.io//project/2019/05/01/SelectaObject.html</guid>
+        
+        <category>Python</category>
+        
+        <category>Keras</category>
+        
+        <category>Tensorflow</category>
+        
+        <category>Pandas</category>
+        
+        <category>Deep-Learning</category>
+        
+        <category>TFX</category>
+        
+        <category>OpenCV</category>
+        
+        <category>GCP</category>
+        
+        <category>TPU</category>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Analytics Tool for Collaboration on arXiv</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Jun 2018 15:56:00 +0000</pubDate>
+        <link>https://tobiagru.github.io//project/2018/06/01/ArxivAnalytics.html</link>
+        <guid isPermaLink="true">https://tobiagru.github.io//project/2018/06/01/ArxivAnalytics.html</guid>
+        
+        <category>Python</category>
+        
+        <category>PySpark</category>
+        
+        <category>NLTK</category>
+        
+        <category>Deep-Learning</category>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Business Model Testing</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Sep 2017 15:56:00 +0000</pubDate>
+        <link>https://tobiagru.github.io//project/2017/09/01/CofoundmeBM.html</link>
+        <guid isPermaLink="true">https://tobiagru.github.io//project/2017/09/01/CofoundmeBM.html</guid>
+        
+        <category>Lean-Startup</category>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Recommendation System for relevant Jobs</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Sep 2017 15:56:00 +0000</pubDate>
+        <link>https://tobiagru.github.io//project/2017/09/01/CofoundmeRecommendation.html</link>
+        <guid isPermaLink="true">https://tobiagru.github.io//project/2017/09/01/CofoundmeRecommendation.html</guid>
+        
+        <category>Python</category>
+        
+        <category>SQL</category>
+        
+        <category>Pandas</category>
+        
+        <category>NLTK</category>
+        
+        <category>Gensim</category>
+        
+        <category>Recommender-System</category>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>A Tinder-Swipe Approach to Measure Interest in Product Features</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Feb 2017 15:56:00 +0000</pubDate>
+        <link>https://tobiagru.github.io//project/2017/02/01/NeedSeeker.html</link>
+        <guid isPermaLink="true">https://tobiagru.github.io//project/2017/02/01/NeedSeeker.html</guid>
+        
+        <category>Python</category>
+        
+        <category>SQL</category>
+        
+        <category>Pandas</category>
+        
+        <category>Lean-Startup</category>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Design Thinking Education</title>
+        <description>
+</description>
+        <pubDate>Thu, 01 Dec 2016 15:56:00 +0000</pubDate>
+        <link>https://tobiagru.github.io//project/2016/12/01/DesignThinking.html</link>
+        <guid isPermaLink="true">https://tobiagru.github.io//project/2016/12/01/DesignThinking.html</guid>
+        
+        <category>Design-Thinking</category>
+        
+        <category>Rapid-Prototyping</category>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Risk Trend Analytics Tool</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Oct 2016 15:56:00 +0000</pubDate>
+        <link>https://tobiagru.github.io//project/2016/10/01/RiskTrendAnalytics.html</link>
+        <guid isPermaLink="true">https://tobiagru.github.io//project/2016/10/01/RiskTrendAnalytics.html</guid>
+        
+        <category>Project-Management</category>
+        
+        <category>Design-Thinking</category>
+        
+        <category>Python</category>
+        
+        <category>IBM-Bluemix</category>
+        
+        <category>NLP</category>
+        
+        <category>Timeseries-Analysis</category>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>3D Object Detection NeuralNet</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 May 2016 15:56:00 +0000</pubDate>
+        <link>https://tobiagru.github.io//project/2016/05/01/3DObjectDetection.html</link>
+        <guid isPermaLink="true">https://tobiagru.github.io//project/2016/05/01/3DObjectDetection.html</guid>
+        
+        <category>Python</category>
+        
+        <category>Keras</category>
+        
+        <category>Tensorflow</category>
+        
+        <category>OpenCV</category>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+  </channel>
+</rss>
