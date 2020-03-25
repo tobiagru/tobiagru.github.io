@@ -3,7 +3,7 @@ type: ds-project
 layout: inner
 position: right
 title: 'Grocery Product Detection with Deep Learning'
-date: 2019-05-01 15:56:00
+date: 2019-06-01 15:56:00
 categories: project
 tags: Python Keras Tensorflow Pandas Deep-Learning TFX OpenCV GCP TPU
 featured_image: '/img/posts/2019-05-01-SelectObjectDetection.png'
