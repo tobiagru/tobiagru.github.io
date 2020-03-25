@@ -5,8 +5,8 @@
     <description>an entrepreneurial product developer focusing on data-driven projects.&lt;br&gt;I love data-science, artificial intelligence &amp; computer vision</description>
     <link>https://tobiagru.github.io//</link>
     <atom:link href="https://tobiagru.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Mar 2020 22:27:05 +0000</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2020 22:27:05 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2020 22:40:50 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2020 22:40:50 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -39,37 +39,12 @@
       </item>
     
       <item>
-        <title>User Study on Augmented Reality based Intervention for Healthier Shopping</title>
-        <description>
-</description>
-        <pubDate>Sat, 01 Jun 2019 15:56:00 +0000</pubDate>
-        <link>https://tobiagru.github.io//project/2019/06/01/SelectaStudy.html</link>
-        <guid isPermaLink="true">https://tobiagru.github.io//project/2019/06/01/SelectaStudy.html</guid>
-        
-        <category>C#</category>
-        
-        <category>Unity</category>
-        
-        <category>Python</category>
-        
-        <category>Pandas</category>
-        
-        <category>Dash</category>
-        
-        <category>Human-Machine-Interaction</category>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
         <title>Grocery Product Detection with Deep Learning</title>
         <description>
 </description>
-        <pubDate>Wed, 01 May 2019 15:56:00 +0000</pubDate>
-        <link>https://tobiagru.github.io//project/2019/05/01/SelectaObject.html</link>
-        <guid isPermaLink="true">https://tobiagru.github.io//project/2019/05/01/SelectaObject.html</guid>
+        <pubDate>Sat, 01 Jun 2019 15:56:00 +0000</pubDate>
+        <link>https://tobiagru.github.io//project/2019/06/01/SelectaObject.html</link>
+        <guid isPermaLink="true">https://tobiagru.github.io//project/2019/06/01/SelectaObject.html</guid>
         
         <category>Python</category>
         
@@ -88,6 +63,33 @@
         <category>GCP</category>
         
         <category>TPU</category>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>User Study on Augmented Reality based Intervention for Healthier Shopping</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 May 2019 15:56:00 +0000</pubDate>
+        <link>https://tobiagru.github.io//project/2019/05/01/SelectaStudy.html</link>
+        <guid isPermaLink="true">https://tobiagru.github.io//project/2019/05/01/SelectaStudy.html</guid>
+        
+        <category>C#</category>
+        
+        <category>Unity</category>
+        
+        <category>AR</category>
+        
+        <category>Python</category>
+        
+        <category>Pandas</category>
+        
+        <category>Dash</category>
+        
+        <category>HCI</category>
         
         
         <category>project</category>

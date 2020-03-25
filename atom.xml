@@ -4,7 +4,7 @@
  <title>Hi! I am Tobias a </title>
  <link href="https://tobiagru.github.io//atom.xml" rel="self"/>
  <link href="https://tobiagru.github.io//"/>
- <updated>2020-03-25T22:27:05+00:00</updated>
+ <updated>2020-03-25T22:40:50+00:00</updated>
  <id>https://tobiagru.github.io/</id>
  <author>
    <name>Tobias Grundmann</name>
@@ -22,19 +22,19 @@
  </entry>
  
  <entry>
-   <title>User Study on Augmented Reality based Intervention for Healthier Shopping</title>
-   <link href="https://tobiagru.github.io//project/2019/06/01/SelectaStudy.html"/>
+   <title>Grocery Product Detection with Deep Learning</title>
+   <link href="https://tobiagru.github.io//project/2019/06/01/SelectaObject.html"/>
    <updated>2019-06-01T15:56:00+00:00</updated>
-   <id>https://tobiagru.github.io//project/2019/06/01/SelectaStudy</id>
+   <id>https://tobiagru.github.io//project/2019/06/01/SelectaObject</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
-   <title>Grocery Product Detection with Deep Learning</title>
-   <link href="https://tobiagru.github.io//project/2019/05/01/SelectaObject.html"/>
+   <title>User Study on Augmented Reality based Intervention for Healthier Shopping</title>
+   <link href="https://tobiagru.github.io//project/2019/05/01/SelectaStudy.html"/>
    <updated>2019-05-01T15:56:00+00:00</updated>
-   <id>https://tobiagru.github.io//project/2019/05/01/SelectaObject</id>
+   <id>https://tobiagru.github.io//project/2019/05/01/SelectaStudy</id>
    <content type="html">
 </content>
  </entry>
