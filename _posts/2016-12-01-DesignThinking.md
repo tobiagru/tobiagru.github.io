@@ -4,7 +4,7 @@ layout: inner
 position: left
 title: 'Design Thinking Education'
 date: 2016-12-01 15:56:00
-categories: Robotics Development
+categories: project
 tags: Design-Thinking Rapid-Prototyping 
 featured_image: '/img/posts/2016-12-01-DesignThinking.png'
 project_link: ''

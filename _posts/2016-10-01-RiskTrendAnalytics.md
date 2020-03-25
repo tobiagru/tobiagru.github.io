@@ -4,7 +4,7 @@ layout: inner
 position: right
 title: 'Risk Trend Analytics Tool'
 date: 2016-10-01 15:56:00
-categories: Robotics Development
+categories: project
 tags: Project-Management Design-Thinking Python IBM-Bluemix NLP Timeseries-Analysis 
 featured_image: '/img/posts/2016-10-01-RiskTrendAnalytics.png'
 project_link: ''

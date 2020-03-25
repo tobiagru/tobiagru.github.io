@@ -4,7 +4,7 @@ layout: inner
 position: left
 title: '6-axis Chocolate Picking Robot'
 date: 2014-05-01 15:56:00
-categories: Robotics Development
+categories: project
 tags: Matlab C++ Rapid
 featured_image: '/img/posts/2014-05-01-UNSW-Robot.png'
 project_link: 'https://github.com/tobiagru/ChocolatePickingRobot'

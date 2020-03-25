@@ -4,7 +4,7 @@ layout: inner
 position: right
 title: 'Business Model Testing'
 date: 2017-09-01 15:56:00
-categories: Robotics Development
+categories: project
 tags: Lean-Startup   
 featured_image: '/img/posts/2017-09-01-CofoundmeBM.png'
 project_link: ''

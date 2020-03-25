@@ -4,7 +4,7 @@ layout: inner
 position: right
 title: 'Data Analysis & Visualization for Swiss Pension Insurance Market'
 date: 2015-10-01 15:56:00
-categories: Robotics Development
+categories: project
 tags: Power-BI Regression
 featured_image: '/img/posts/2015-10-01-SwissInsuranceThirdPillar.png'
 project_link: ''

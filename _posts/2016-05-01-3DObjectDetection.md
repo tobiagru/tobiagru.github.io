@@ -4,7 +4,7 @@ layout: inner
 position: left
 title: '3D Object Detection NeuralNet'
 date: 2016-05-01 15:56:00
-categories: Robotics Development
+categories: project
 tags: Python Keras Tensorflow OpenCV  
 featured_image: '/img/posts/2016-05-01-3DObjectDetection.png'
 project_link: 'https://github.com/tobiagru/Deep-3D-Obj-Recognition'

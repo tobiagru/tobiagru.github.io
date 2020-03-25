@@ -4,7 +4,7 @@ layout: inner
 position: right
 title: 'Exploring Robot Path Planning Strategies'
 date: 2013-07-01 15:56:00
-categories: Robotics Development
+categories: project
 tags: Mathematica 
 featured_image: '/img/posts/2013-07-01-PathPlanning.png'
 project_link: 'https://github.com/tobiagru/PathplanningComparison'

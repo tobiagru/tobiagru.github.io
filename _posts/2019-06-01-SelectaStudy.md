@@ -4,7 +4,7 @@ layout: inner
 position: left
 title: 'User Study on Augmented Reality based Intervention for Healthier Shopping'
 date: 2019-06-01 15:56:00
-categories: Robotics Development
+categories: project
 tags: C# Unity Python Pandas Dash Human-Machine-Interaction
 featured_image: '/img/posts/2019-06-01-SelectaStudy.png'
 project_link: 'https://cocoa.ethz.ch/downloads/2019/11/2511_madima_holoselecta%20(1).pdf'

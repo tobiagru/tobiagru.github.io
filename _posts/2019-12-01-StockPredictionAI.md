@@ -4,7 +4,7 @@ layout: inner
 position: right
 title: 'Stock Price Detection with Deep Neural Networks - WIP'
 date: 2019-12-01 15:56:00
-categories: Robotics Development
+categories: project
 tags: Python Tensorflow Keras Pandas Deep-Learning NLP GCP TPU
 featured_image: '/img/posts/2019-12-01-StockPrediction.png'
 project_link: 'https://github.com/tobiagru/StockPredictionAI-Tensorflow/blob/master/StockPricePrediction.ipynb'

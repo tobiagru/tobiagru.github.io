@@ -4,7 +4,7 @@ layout: inner
 position: right
 title: 'A Tinder-Swipe Approach to Measure Interest in Product Features'
 date: 2017-02-01 15:56:00
-categories: Robotics Development
+categories: project
 tags: Python SQL Pandas Lean-Startup  
 featured_image: '/img/posts/2017-02-01-NeedSeeker.png'
 project_link: 'https://github.com/tobiagru/HTSM-Need-Exploration'

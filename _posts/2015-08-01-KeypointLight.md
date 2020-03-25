@@ -4,7 +4,7 @@ layout: inner
 position: right
 title: 'Landmark Detection in Changing Light'
 date: 2015-08-01 15:56:00
-categories: Robotics Development
+categories: project
 tags: C++ Python OpenCV  
 featured_image: '/img/posts/2015-08-01-KeypointLight.png'
 project_link: 'https://github.com/tobiagru/LandmarkDetectionLightConditions'

@@ -4,7 +4,7 @@ layout: inner
 position: left
 title: 'Supply Chain Lead Time Analytics'
 date: 2015-05-01 15:56:00
-categories: Robotics Development
+categories: project
 tags: Excel VBA SAP OLAP
 featured_image: '/img/posts/2015-05-01-SupplyChain.png'
 project_link: ''

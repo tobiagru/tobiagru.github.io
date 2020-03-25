@@ -4,7 +4,7 @@ layout: inner
 position: right
 title: 'Manufacturing Operational Excellence Analytics'
 date: 2014-12-01 15:56:00
-categories: Robotics Development
+categories: project
 tags: Excel VBA SAP OLAP
 featured_image: '/img/posts/2014-12-01-Manufacturing.png'
 project_link: ''

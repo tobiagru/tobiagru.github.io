@@ -4,7 +4,7 @@ layout: inner
 position: left
 title: 'Recommendation System for relevant Jobs'
 date: 2017-09-01 15:56:00
-categories: Robotics Development
+categories: project
 tags: Python SQL Pandas NLTK Gensim Recommender-System  
 featured_image: '/img/posts/2017-09-01-CofoundmeRecommendation.png'
 project_link: 'https://github.com/tobiagru/JobRecommendation'
