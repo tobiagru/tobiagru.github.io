@@ -5,17 +5,40 @@
     <description>an entrepreneurial product developer focusing on data-driven projects.&lt;br&gt;I love data-science, artificial intelligence &amp; computer vision</description>
     <link>https://tobiagru.github.io//</link>
     <atom:link href="https://tobiagru.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Mar 2020 22:40:50 +0000</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2020 22:40:50 +0000</lastBuildDate>
+    <pubDate>Tue, 31 Mar 2020 09:37:17 +0000</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2020 09:37:17 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Tivi - Covid Chrisis Ventilator Management App</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Mar 2020 15:56:00 +0000</pubDate>
+        <link>https://tobiagru.github.io//project/2020/03/01/TiviCovid.html</link>
+        <guid isPermaLink="true">https://tobiagru.github.io//project/2020/03/01/TiviCovid.html</guid>
+        
+        <category>Js</category>
+        
+        <category>React</category>
+        
+        <category>HTML</category>
+        
+        <category>CSS</category>
+        
+        <category>Scandit</category>
+        
+        
+        <category>project</category>
+        
+      </item>
     
       <item>
         <title>Stock Price Detection with Deep Neural Networks - WIP</title>
         <description>
 </description>
         <pubDate>Sun, 01 Dec 2019 15:56:00 +0000</pubDate>
-        <link>https://tobiagru.github.io//project/2019/12/01/StockPredictionAI.html</link>
-        <guid isPermaLink="true">https://tobiagru.github.io//project/2019/12/01/StockPredictionAI.html</guid>
+        <link>https://tobiagru.github.io//project/2019/12/01/StockPredictionAI-copy.html</link>
+        <guid isPermaLink="true">https://tobiagru.github.io//project/2019/12/01/StockPredictionAI-copy.html</guid>
         
         <category>Python</category>
         
@@ -214,27 +237,6 @@
         <category>NLP</category>
         
         <category>Timeseries-Analysis</category>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>3D Object Detection NeuralNet</title>
-        <description>
-</description>
-        <pubDate>Sun, 01 May 2016 15:56:00 +0000</pubDate>
-        <link>https://tobiagru.github.io//project/2016/05/01/3DObjectDetection.html</link>
-        <guid isPermaLink="true">https://tobiagru.github.io//project/2016/05/01/3DObjectDetection.html</guid>
-        
-        <category>Python</category>
-        
-        <category>Keras</category>
-        
-        <category>Tensorflow</category>
-        
-        <category>OpenCV</category>
         
         
         <category>project</category>

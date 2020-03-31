@@ -4,7 +4,7 @@
  <title>Hi! I am Tobias a </title>
  <link href="https://tobiagru.github.io//atom.xml" rel="self"/>
  <link href="https://tobiagru.github.io//"/>
- <updated>2020-03-25T22:40:50+00:00</updated>
+ <updated>2020-03-31T09:37:17+00:00</updated>
  <id>https://tobiagru.github.io/</id>
  <author>
    <name>Tobias Grundmann</name>
@@ -13,10 +13,19 @@
 
  
  <entry>
+   <title>Tivi - Covid Chrisis Ventilator Management App</title>
+   <link href="https://tobiagru.github.io//project/2020/03/01/TiviCovid.html"/>
+   <updated>2020-03-01T15:56:00+00:00</updated>
+   <id>https://tobiagru.github.io//project/2020/03/01/TiviCovid</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>Stock Price Detection with Deep Neural Networks - WIP</title>
-   <link href="https://tobiagru.github.io//project/2019/12/01/StockPredictionAI.html"/>
+   <link href="https://tobiagru.github.io//project/2019/12/01/StockPredictionAI-copy.html"/>
    <updated>2019-12-01T15:56:00+00:00</updated>
-   <id>https://tobiagru.github.io//project/2019/12/01/StockPredictionAI</id>
+   <id>https://tobiagru.github.io//project/2019/12/01/StockPredictionAI copy</id>
    <content type="html">
 </content>
  </entry>
