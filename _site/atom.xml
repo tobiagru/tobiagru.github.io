@@ -4,7 +4,7 @@
  <title>Hi! I am Tobias a </title>
  <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
  <link href="http://0.0.0.0:4000/"/>
- <updated>2020-03-25T10:18:49-05:00</updated>
+ <updated>2020-03-25T11:56:04-05:00</updated>
  <id>http://0.0.0.0:4000</id>
  <author>
    <name>Tobias Grundmann</name>
@@ -14,153 +14,153 @@
  
  <entry>
    <title>Stock Price Detection with Deep Neural Networks - WIP</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2019/12/01/StockPredictionAI.html"/>
+   <link href="http://0.0.0.0:4000/project/2019/12/01/StockPredictionAI.html"/>
    <updated>2019-12-01T09:56:00-06:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2019/12/01/StockPredictionAI</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>User Study on Augmented Reality based Intervention for Healthier Shopping</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2019/06/01/SelectaStudy.html"/>
-   <updated>2019-06-01T10:56:00-05:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2019/06/01/SelectaStudy</id>
+   <id>http://0.0.0.0:4000/project/2019/12/01/StockPredictionAI</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Grocery Product Detection with Deep Learning</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2019/05/01/SelectaObject.html"/>
+   <link href="http://0.0.0.0:4000/project/2019/06/01/SelectaObject.html"/>
+   <updated>2019-06-01T10:56:00-05:00</updated>
+   <id>http://0.0.0.0:4000/project/2019/06/01/SelectaObject</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>User Study on Augmented Reality based Intervention for Healthier Shopping</title>
+   <link href="http://0.0.0.0:4000/project/2019/05/01/SelectaStudy.html"/>
    <updated>2019-05-01T10:56:00-05:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2019/05/01/SelectaObject</id>
+   <id>http://0.0.0.0:4000/project/2019/05/01/SelectaStudy</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Analytics Tool for Collaboration on arXiv</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2018/06/01/ArxivAnalytics.html"/>
+   <link href="http://0.0.0.0:4000/project/2018/06/01/ArxivAnalytics.html"/>
    <updated>2018-06-01T10:56:00-05:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2018/06/01/ArxivAnalytics</id>
+   <id>http://0.0.0.0:4000/project/2018/06/01/ArxivAnalytics</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Business Model Testing</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2017/09/01/CofoundmeBM.html"/>
+   <link href="http://0.0.0.0:4000/project/2017/09/01/CofoundmeBM.html"/>
    <updated>2017-09-01T10:56:00-05:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2017/09/01/CofoundmeBM</id>
+   <id>http://0.0.0.0:4000/project/2017/09/01/CofoundmeBM</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Recommendation System for relevant Jobs</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2017/09/01/CofoundmeRecommendation.html"/>
+   <link href="http://0.0.0.0:4000/project/2017/09/01/CofoundmeRecommendation.html"/>
    <updated>2017-09-01T10:56:00-05:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2017/09/01/CofoundmeRecommendation</id>
+   <id>http://0.0.0.0:4000/project/2017/09/01/CofoundmeRecommendation</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>A Tinder-Swipe Approach to Measure Interest in Product Features</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2017/02/01/NeedSeeker.html"/>
+   <link href="http://0.0.0.0:4000/project/2017/02/01/NeedSeeker.html"/>
    <updated>2017-02-01T09:56:00-06:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2017/02/01/NeedSeeker</id>
+   <id>http://0.0.0.0:4000/project/2017/02/01/NeedSeeker</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Design Thinking Education</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2016/12/01/DesignThinking.html"/>
+   <link href="http://0.0.0.0:4000/project/2016/12/01/DesignThinking.html"/>
    <updated>2016-12-01T09:56:00-06:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2016/12/01/DesignThinking</id>
+   <id>http://0.0.0.0:4000/project/2016/12/01/DesignThinking</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Risk Trend Analytics Tool</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2016/10/01/RiskTrendAnalytics.html"/>
+   <link href="http://0.0.0.0:4000/project/2016/10/01/RiskTrendAnalytics.html"/>
    <updated>2016-10-01T10:56:00-05:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2016/10/01/RiskTrendAnalytics</id>
+   <id>http://0.0.0.0:4000/project/2016/10/01/RiskTrendAnalytics</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>3D Object Detection NeuralNet</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2016/05/01/3DObjectDetection.html"/>
+   <link href="http://0.0.0.0:4000/project/2016/05/01/3DObjectDetection.html"/>
    <updated>2016-05-01T10:56:00-05:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2016/05/01/3DObjectDetection</id>
+   <id>http://0.0.0.0:4000/project/2016/05/01/3DObjectDetection</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Data Analysis & Visualization for Swiss Pension Insurance Market</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2015/10/01/SwissInsuranceThirdPillar.html"/>
+   <link href="http://0.0.0.0:4000/project/2015/10/01/SwissInsuranceThirdPillar.html"/>
    <updated>2015-10-01T10:56:00-05:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2015/10/01/SwissInsuranceThirdPillar</id>
+   <id>http://0.0.0.0:4000/project/2015/10/01/SwissInsuranceThirdPillar</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Development of a Disruptive Carbon Fiber Smart Orthosis</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2015/09/01/Orthosis.html"/>
+   <link href="http://0.0.0.0:4000/project/2015/09/01/Orthosis.html"/>
    <updated>2015-09-01T10:56:00-05:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2015/09/01/Orthosis</id>
+   <id>http://0.0.0.0:4000/project/2015/09/01/Orthosis</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Landmark Detection in Changing Light</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2015/08/01/KeypointLight.html"/>
+   <link href="http://0.0.0.0:4000/project/2015/08/01/KeypointLight.html"/>
    <updated>2015-08-01T10:56:00-05:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2015/08/01/KeypointLight</id>
+   <id>http://0.0.0.0:4000/project/2015/08/01/KeypointLight</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Supply Chain Lead Time Analytics</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2015/05/01/SupplyChain.html"/>
+   <link href="http://0.0.0.0:4000/project/2015/05/01/SupplyChain.html"/>
    <updated>2015-05-01T10:56:00-05:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2015/05/01/SupplyChain</id>
+   <id>http://0.0.0.0:4000/project/2015/05/01/SupplyChain</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Manufacturing Operational Excellence Analytics</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2014/12/01/Manufacturing.html"/>
+   <link href="http://0.0.0.0:4000/project/2014/12/01/Manufacturing.html"/>
    <updated>2014-12-01T09:56:00-06:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2014/12/01/Manufacturing</id>
+   <id>http://0.0.0.0:4000/project/2014/12/01/Manufacturing</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>6-axis Chocolate Picking Robot</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2014/05/01/UNSW-Robot.html"/>
+   <link href="http://0.0.0.0:4000/project/2014/05/01/UNSW-Robot.html"/>
    <updated>2014-05-01T10:56:00-05:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2014/05/01/UNSW-Robot</id>
+   <id>http://0.0.0.0:4000/project/2014/05/01/UNSW-Robot</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Exploring Robot Path Planning Strategies</title>
-   <link href="http://0.0.0.0:4000/robotics/development/2013/07/01/PathPlanning.html"/>
+   <link href="http://0.0.0.0:4000/project/2013/07/01/PathPlanning.html"/>
    <updated>2013-07-01T10:56:00-05:00</updated>
-   <id>http://0.0.0.0:4000/robotics/development/2013/07/01/PathPlanning</id>
+   <id>http://0.0.0.0:4000/project/2013/07/01/PathPlanning</id>
    <content type="html">
 </content>
  </entry>

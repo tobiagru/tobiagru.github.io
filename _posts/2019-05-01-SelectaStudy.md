@@ -1,7 +1,7 @@
 ---
 type: ds-project
 layout: inner
-position: left
+position: right
 title: 'User Study on Augmented Reality based Intervention for Healthier Shopping'
 date: 2019-05-01 15:56:00
 categories: project

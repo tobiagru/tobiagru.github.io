@@ -1,7 +1,7 @@
 ---
 type: ds-project
 layout: inner
-position: right
+position: left
 title: 'Grocery Product Detection with Deep Learning'
 date: 2019-06-01 15:56:00
 categories: project
