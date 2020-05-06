@@ -4,13 +4,22 @@
  <title>Hi! I am Tobias a </title>
  <link href="https://tobiagru.github.io//atom.xml" rel="self"/>
  <link href="https://tobiagru.github.io//"/>
- <updated>2020-03-31T09:37:17+00:00</updated>
+ <updated>2020-05-06T09:14:22+00:00</updated>
  <id>https://tobiagru.github.io/</id>
  <author>
    <name>Tobias Grundmann</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>AlcoPop - Intoxication Detection from Thermal Images</title>
+   <link href="https://tobiagru.github.io//project/2020/05/01/AlcoPop.html"/>
+   <updated>2020-05-01T15:56:00+00:00</updated>
+   <id>https://tobiagru.github.io//project/2020/05/01/AlcoPop</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Tivi - Covid Chrisis Ventilator Management App</title>

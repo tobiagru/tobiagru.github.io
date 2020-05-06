@@ -5,9 +5,32 @@
     <description>an entrepreneurial product developer focusing on data-driven projects.&lt;br&gt;I love data-science, artificial intelligence &amp; computer vision</description>
     <link>https://tobiagru.github.io//</link>
     <atom:link href="https://tobiagru.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Mar 2020 09:37:17 +0000</pubDate>
-    <lastBuildDate>Tue, 31 Mar 2020 09:37:17 +0000</lastBuildDate>
+    <pubDate>Wed, 06 May 2020 09:14:22 +0000</pubDate>
+    <lastBuildDate>Wed, 06 May 2020 09:14:22 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>AlcoPop - Intoxication Detection from Thermal Images</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 May 2020 15:56:00 +0000</pubDate>
+        <link>https://tobiagru.github.io//project/2020/05/01/AlcoPop.html</link>
+        <guid isPermaLink="true">https://tobiagru.github.io//project/2020/05/01/AlcoPop.html</guid>
+        
+        <category>Python</category>
+        
+        <category>Tensorflow</category>
+        
+        <category>Mediapipe</category>
+        
+        <category>Js</category>
+        
+        <category>Typescript</category>
+        
+        
+        <category>project</category>
+        
+      </item>
     
       <item>
         <title>Tivi - Covid Chrisis Ventilator Management App</title>
@@ -212,31 +235,6 @@
         <category>Design-Thinking</category>
         
         <category>Rapid-Prototyping</category>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Risk Trend Analytics Tool</title>
-        <description>
-</description>
-        <pubDate>Sat, 01 Oct 2016 15:56:00 +0000</pubDate>
-        <link>https://tobiagru.github.io//project/2016/10/01/RiskTrendAnalytics.html</link>
-        <guid isPermaLink="true">https://tobiagru.github.io//project/2016/10/01/RiskTrendAnalytics.html</guid>
-        
-        <category>Project-Management</category>
-        
-        <category>Design-Thinking</category>
-        
-        <category>Python</category>
-        
-        <category>IBM-Bluemix</category>
-        
-        <category>NLP</category>
-        
-        <category>Timeseries-Analysis</category>
         
         
         <category>project</category>
