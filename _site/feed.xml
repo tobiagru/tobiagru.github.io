@@ -5,17 +5,63 @@
     <description>an entrepreneurial product developer focusing on data-driven projects.&lt;br&gt;I love data-science, artificial intelligence &amp; computer vision</description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Mar 2020 11:56:04 -0500</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2020 11:56:04 -0500</lastBuildDate>
+    <pubDate>Tue, 05 May 2020 07:39:33 -0500</pubDate>
+    <lastBuildDate>Tue, 05 May 2020 07:39:33 -0500</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>AlcoPop - Intoxication Detection from Thermal Images</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 May 2020 10:56:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/project/2020/05/01/AlcoPop.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/project/2020/05/01/AlcoPop.html</guid>
+        
+        <category>Python</category>
+        
+        <category>Tensorflow</category>
+        
+        <category>Mediapipe</category>
+        
+        <category>Js</category>
+        
+        <category>Typescript</category>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Tivi - Covid Chrisis Ventilator Management App</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Mar 2020 09:56:00 -0600</pubDate>
+        <link>http://0.0.0.0:4000/project/2020/03/01/TiviCovid.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/project/2020/03/01/TiviCovid.html</guid>
+        
+        <category>Js</category>
+        
+        <category>React</category>
+        
+        <category>HTML</category>
+        
+        <category>CSS</category>
+        
+        <category>Scandit</category>
+        
+        
+        <category>project</category>
+        
+      </item>
     
       <item>
         <title>Stock Price Detection with Deep Neural Networks - WIP</title>
         <description>
 </description>
         <pubDate>Sun, 01 Dec 2019 09:56:00 -0600</pubDate>
-        <link>http://0.0.0.0:4000/project/2019/12/01/StockPredictionAI.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/project/2019/12/01/StockPredictionAI.html</guid>
+        <link>http://0.0.0.0:4000/project/2019/12/01/StockPredictionAI-copy.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/project/2019/12/01/StockPredictionAI-copy.html</guid>
         
         <category>Python</category>
         
@@ -189,52 +235,6 @@
         <category>Design-Thinking</category>
         
         <category>Rapid-Prototyping</category>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Risk Trend Analytics Tool</title>
-        <description>
-</description>
-        <pubDate>Sat, 01 Oct 2016 10:56:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/project/2016/10/01/RiskTrendAnalytics.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/project/2016/10/01/RiskTrendAnalytics.html</guid>
-        
-        <category>Project-Management</category>
-        
-        <category>Design-Thinking</category>
-        
-        <category>Python</category>
-        
-        <category>IBM-Bluemix</category>
-        
-        <category>NLP</category>
-        
-        <category>Timeseries-Analysis</category>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>3D Object Detection NeuralNet</title>
-        <description>
-</description>
-        <pubDate>Sun, 01 May 2016 10:56:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/project/2016/05/01/3DObjectDetection.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/project/2016/05/01/3DObjectDetection.html</guid>
-        
-        <category>Python</category>
-        
-        <category>Keras</category>
-        
-        <category>Tensorflow</category>
-        
-        <category>OpenCV</category>
         
         
         <category>project</category>

@@ -4,7 +4,7 @@
  <title>Hi! I am Tobias a </title>
  <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
  <link href="http://0.0.0.0:4000/"/>
- <updated>2020-03-25T11:56:04-05:00</updated>
+ <updated>2020-05-05T07:39:33-05:00</updated>
  <id>http://0.0.0.0:4000</id>
  <author>
    <name>Tobias Grundmann</name>
@@ -13,10 +13,28 @@
 
  
  <entry>
+   <title>AlcoPop - Intoxication Detection from Thermal Images</title>
+   <link href="http://0.0.0.0:4000/project/2020/05/01/AlcoPop.html"/>
+   <updated>2020-05-01T10:56:00-05:00</updated>
+   <id>http://0.0.0.0:4000/project/2020/05/01/AlcoPop</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tivi - Covid Chrisis Ventilator Management App</title>
+   <link href="http://0.0.0.0:4000/project/2020/03/01/TiviCovid.html"/>
+   <updated>2020-03-01T09:56:00-06:00</updated>
+   <id>http://0.0.0.0:4000/project/2020/03/01/TiviCovid</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>Stock Price Detection with Deep Neural Networks - WIP</title>
-   <link href="http://0.0.0.0:4000/project/2019/12/01/StockPredictionAI.html"/>
+   <link href="http://0.0.0.0:4000/project/2019/12/01/StockPredictionAI-copy.html"/>
    <updated>2019-12-01T09:56:00-06:00</updated>
-   <id>http://0.0.0.0:4000/project/2019/12/01/StockPredictionAI</id>
+   <id>http://0.0.0.0:4000/project/2019/12/01/StockPredictionAI copy</id>
    <content type="html">
 </content>
  </entry>

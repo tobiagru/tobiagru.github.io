@@ -1,7 +1,7 @@
 ---
 type: ds-project
 layout: inner
-position: right
+position: left
 title: 'Tivi - Covid Chrisis Ventilator Management App'
 date: 2020-03-01 15:56:00
 categories: project
